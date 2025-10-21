@@ -5,6 +5,9 @@ from recommend import recommendBook
 # print(recommendBook('1984'))
 
 app = Flask(__name__)
+@app.route('/')
+def index():
+    return "This is an API, all : api/recommend/<book_name>"
 
 @app.route("/api/recommend/<book_name>")
 def recommendations(book_name): 
