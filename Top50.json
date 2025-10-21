@@ -1,0 +1,402 @@
+[
+    {
+        "Book-Title":"Harry Potter and the Prisoner of Azkaban (Book 3)",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":428,
+        "avg_rating":5.8528037383,
+        "Year-Of-Publication":1999,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0439136350.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Harry Potter and the Goblet of Fire (Book 4)",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":387,
+        "avg_rating":5.8242894057,
+        "Year-Of-Publication":2000,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0439139597.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Harry Potter and the Sorcerer's Stone (Book 1)",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":278,
+        "avg_rating":5.7374100719,
+        "Year-Of-Publication":1998,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0590353403.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Harry Potter and the Order of the Phoenix (Book 5)",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":347,
+        "avg_rating":5.5014409222,
+        "Year-Of-Publication":2003,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/043935806X.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Ender's Game (Ender Wiggins Saga (Paperback))",
+        "Book-Author":"Orson Scott Card",
+        "nums_rating":249,
+        "avg_rating":5.4096385542,
+        "Year-Of-Publication":1992,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0312853238.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Harry Potter and the Chamber of Secrets (Book 2)",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":556,
+        "avg_rating":5.1834532374,
+        "Year-Of-Publication":2000,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0439064872.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Hobbit : The Enchanting Prelude to The Lord of the Rings",
+        "Book-Author":"J.R.R. TOLKIEN",
+        "nums_rating":281,
+        "avg_rating":5.0071174377,
+        "Year-Of-Publication":1986,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0345339681.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Fellowship of the Ring (The Lord of the Rings, Part 1)",
+        "Book-Author":"J.R.R. TOLKIEN",
+        "nums_rating":368,
+        "avg_rating":4.9483695652,
+        "Year-Of-Publication":1986,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0345339703.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback))",
+        "Book-Author":"J. K. Rowling",
+        "nums_rating":575,
+        "avg_rating":4.8956521739,
+        "Year-Of-Publication":1999,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/059035342X.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Two Towers (The Lord of the Rings, Part 2)",
+        "Book-Author":"J.R.R. TOLKIEN",
+        "nums_rating":260,
+        "avg_rating":4.8807692308,
+        "Year-Of-Publication":1986,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0345339711.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"To Kill a Mockingbird",
+        "Book-Author":"Harper Lee",
+        "nums_rating":510,
+        "avg_rating":4.7,
+        "Year-Of-Publication":1988,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0446310786.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Da Vinci Code",
+        "Book-Author":"Dan Brown",
+        "nums_rating":898,
+        "avg_rating":4.6425389755,
+        "Year-Of-Publication":2003,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0385504209.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Five People You Meet in Heaven",
+        "Book-Author":"Mitch Albom",
+        "nums_rating":430,
+        "avg_rating":4.5511627907,
+        "Year-Of-Publication":2003,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0786868716.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Catcher in the Rye",
+        "Book-Author":"J.D. Salinger",
+        "nums_rating":449,
+        "avg_rating":4.5456570156,
+        "Year-Of-Publication":1991,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0316769487.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Return of the King (The Lord of the Rings, Part 3)",
+        "Book-Author":"J.R.R. TOLKIEN",
+        "nums_rating":211,
+        "avg_rating":4.4976303318,
+        "Year-Of-Publication":1986,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0345339738.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Lovely Bones: A Novel",
+        "Book-Author":"Alice Sebold",
+        "nums_rating":1295,
+        "avg_rating":4.4687258687,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0316666343.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Great Gatsby",
+        "Book-Author":"F. Scott Fitzgerald",
+        "nums_rating":205,
+        "avg_rating":4.4585365854,
+        "Year-Of-Publication":1999,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/185326041X.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"1984",
+        "Book-Author":"George Orwell",
+        "nums_rating":284,
+        "avg_rating":4.4542253521,
+        "Year-Of-Publication":1990,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0451524934.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Prodigal Summer: A Novel",
+        "Book-Author":"Barbara Kingsolver",
+        "nums_rating":253,
+        "avg_rating":4.4505928854,
+        "Year-Of-Publication":2001,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0060959037.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Neverwhere",
+        "Book-Author":"Neil Gaiman",
+        "nums_rating":265,
+        "avg_rating":4.4490566038,
+        "Year-Of-Publication":1998,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0380789019.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Secret Life of Bees",
+        "Book-Author":"Sue Monk Kidd",
+        "nums_rating":774,
+        "avg_rating":4.4470284238,
+        "Year-Of-Publication":2003,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0142001740.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Stupid White Men ...and Other Sorry Excuses for the State of the Nation!",
+        "Book-Author":"Michael Moore",
+        "nums_rating":283,
+        "avg_rating":4.3568904594,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0060392452.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
+        "Book-Author":"MITCH ALBOM",
+        "nums_rating":493,
+        "avg_rating":4.354969574,
+        "Year-Of-Publication":1997,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0385484518.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Red Tent (Bestselling Backlist)",
+        "Book-Author":"Anita Diamant",
+        "nums_rating":723,
+        "avg_rating":4.3347164592,
+        "Year-Of-Publication":1998,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0312195516.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Brave New World",
+        "Book-Author":"Aldous Huxley",
+        "nums_rating":226,
+        "avg_rating":4.3318584071,
+        "Year-Of-Publication":1989,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0060809833.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Hitchhiker's Guide to the Galaxy",
+        "Book-Author":"Douglas Adams",
+        "nums_rating":268,
+        "avg_rating":4.328358209,
+        "Year-Of-Publication":1982,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0671461494.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Nickel and Dimed: On (Not) Getting By in America",
+        "Book-Author":"Barbara Ehrenreich",
+        "nums_rating":335,
+        "avg_rating":4.2895522388,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0805063897.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Tao of Pooh",
+        "Book-Author":"Benjamin Hoff",
+        "nums_rating":211,
+        "avg_rating":4.2890995261,
+        "Year-Of-Publication":1983,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0140067477.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Animal Farm",
+        "Book-Author":"George Orwell",
+        "nums_rating":233,
+        "avg_rating":4.2746781116,
+        "Year-Of-Publication":2004,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0451526341.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Into the Wild",
+        "Book-Author":"Jon Krakauer",
+        "nums_rating":252,
+        "avg_rating":4.2738095238,
+        "Year-Of-Publication":1997,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0385486804.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Fahrenheit 451",
+        "Book-Author":"Ray Bradbury",
+        "nums_rating":409,
+        "avg_rating":4.2640586797,
+        "Year-Of-Publication":1994,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/3257208626.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail)",
+        "Book-Author":"Bill Bryson",
+        "nums_rating":205,
+        "avg_rating":4.243902439,
+        "Year-Of-Publication":1999,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0767902521.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Girl with a Pearl Earring",
+        "Book-Author":"Tracy Chevalier",
+        "nums_rating":526,
+        "avg_rating":4.2186311787,
+        "Year-Of-Publication":2001,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0452282152.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Night",
+        "Book-Author":"Elie Wiesel",
+        "nums_rating":202,
+        "avg_rating":4.2178217822,
+        "Year-Of-Publication":1982,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0553272535.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Outlander",
+        "Book-Author":"DIANA GABALDON",
+        "nums_rating":283,
+        "avg_rating":4.1731448763,
+        "Year-Of-Publication":1996,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0440222915.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Subtle Knife (His Dark Materials, Book 2)",
+        "Book-Author":"PHILIP PULLMAN",
+        "nums_rating":225,
+        "avg_rating":4.1244444444,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0375823468.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Color of Water: A Black Man's Tribute to His White Mother",
+        "Book-Author":"James McBride",
+        "nums_rating":223,
+        "avg_rating":4.1076233184,
+        "Year-Of-Publication":1997,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/1573225789.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Where the Heart Is (Oprah's Book Club (Paperback))",
+        "Book-Author":"Billie Letts",
+        "nums_rating":585,
+        "avg_rating":4.105982906,
+        "Year-Of-Publication":1998,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0446672211.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Seabiscuit: An American Legend",
+        "Book-Author":"LAURA HILLENBRAND",
+        "nums_rating":275,
+        "avg_rating":4.0981818182,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0449005615.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Life of Pi",
+        "Book-Author":"Yann Martel",
+        "nums_rating":664,
+        "avg_rating":4.0888554217,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0151008116.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Bean Trees",
+        "Book-Author":"Barbara Kingsolver",
+        "nums_rating":389,
+        "avg_rating":4.087403599,
+        "Year-Of-Publication":1989,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0060915544.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"A Child Called \\It\\\": One Child's Courage to Survive\"",
+        "Book-Author":"Dave Pelzer",
+        "nums_rating":265,
+        "avg_rating":4.0867924528,
+        "Year-Of-Publication":1995,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/1558743669.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"ANGELA'S ASHES",
+        "Book-Author":"Frank McCourt",
+        "nums_rating":279,
+        "avg_rating":4.0752688172,
+        "Year-Of-Publication":1996,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0684874350.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"High Fidelity",
+        "Book-Author":"Nick Hornby",
+        "nums_rating":247,
+        "avg_rating":4.0566801619,
+        "Year-Of-Publication":1996,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/1573225517.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Good in Bed",
+        "Book-Author":"Jennifer Weiner",
+        "nums_rating":490,
+        "avg_rating":4.0551020408,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0743418174.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Fast Food Nation: The Dark Side of the All-American Meal",
+        "Book-Author":"Eric Schlosser",
+        "nums_rating":321,
+        "avg_rating":4.0373831776,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0060938455.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"American Gods",
+        "Book-Author":"Neil Gaiman",
+        "nums_rating":302,
+        "avg_rating":4.0066225166,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0380789035.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Skipping Christmas",
+        "Book-Author":"JOHN GRISHAM",
+        "nums_rating":322,
+        "avg_rating":4.0062111801,
+        "Year-Of-Publication":2001,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0385505833.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1)",
+        "Book-Author":"Tim Lahaye",
+        "nums_rating":318,
+        "avg_rating":4.0031446541,
+        "Year-Of-Publication":1996,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/0842329129.01.MZZZZZZZ.jpg"
+    },
+    {
+        "Book-Title":"The Golden Compass (His Dark Materials, Book 1)",
+        "Book-Author":"PHILIP PULLMAN",
+        "nums_rating":336,
+        "avg_rating":4.0,
+        "Year-Of-Publication":2002,
+        "Image-URL-M":"http:\/\/images.amazon.com\/images\/P\/037582345X.01.MZZZZZZZ.jpg"
+    }
+]
